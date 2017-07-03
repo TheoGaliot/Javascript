@@ -1,0 +1,21 @@
+body {
+  background-color: #F0F8FF;
+  font-family:'Oswald', sans-serif;
+}
+
+#firstname {
+  text-transform: capitalize;
+}
+
+#lastname {
+  text-transform: capitalize;
+}
+
+button{
+  color: red;
+}
+
+button:hover {
+  background-color: #ADD8E6;
+  cursor:pointer;
+}

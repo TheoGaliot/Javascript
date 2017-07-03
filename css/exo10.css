@@ -1,0 +1,42 @@
+body {
+  text-align: center;
+  margin-top: 250px;
+  background-image: url(http://media.istockphoto.com/vectors/blackboard-vector-id514323221?k=6&m=514323221&s=612x612&w=0&h=IJ4_oJ4OpV7nzfFmF1CyoBU5nSMUTWtufeTZqPOw99o=);
+}
+
+h1{
+  text-align: center;
+  margin-top:-200px;
+  padding-bottom: 75px;
+  font-family: 'Bangers', cursive;
+  font-size: 50px;
+}
+
+#nombre2{
+
+  border: 3px solid black;
+
+}
+
+#calculatrice1{
+
+  border: 3px solid black;
+
+}
+
+#butt {
+  margin-top: 50px;
+
+}
+button{
+  padding: 50px;
+  font-size: 20px;
+
+}
+
+#resultats {
+  font-weight: bold;
+  font-size: 150px;
+  font-family: 'Patua One', cursive;
+  color: white;
+}
